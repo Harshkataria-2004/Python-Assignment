@@ -1,0 +1,2 @@
+What are negative indexes and why are they used?
+In Python, negative indexes are used to access elements in a sequence (such as a string, list, or tuple) from the end rather than from the beginning. Negative indexing starts from the last element with index -1, the second-to-last element with index -2, and so on. The purpose of negative indexes is to provide a convenient way to access elements in reverse order or to refer to elements near the end of a sequence without needing to calculate the exact positive index.
