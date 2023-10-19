@@ -1,0 +1,4 @@
+What is tuple? Difference between list and tuple. 
+
+tuple is finite ordered list of element.
+tuples are immutable as opposed to lists which are mutable.

@@ -1,0 +1,2 @@
+How will you compare two lists?
+using sort method with the (==) oprator.

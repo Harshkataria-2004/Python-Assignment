@@ -1,0 +1,6 @@
+Differentiate between append () and extend () methods?
+
+append() :
+    add number at last of list.
+extend() :
+    join/extend list but as an individual.
